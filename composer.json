@@ -1,0 +1,17 @@
+{
+    "name": "hardyantz/kdriver",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hardyantz\\Kdriver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Buyung Hardiansyah",
+            "email": "buyung.hardiansyah@gmail.com"
+        }
+    ],
+    "require": {}
+}
